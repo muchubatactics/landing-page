@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.body1 {
+    background-color: #1F2937;
+    
+}
+
+.container {
+    margin: 8px 500px;
+}
+
+.header {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    
+}
+
+.header .logo {
+    flex: 1;
+    color: #F9FAF8;
+    font-size: 24px;
+    font-weight: 900;
+    margin-right: auto;
+}
+
+.header ul {
+    flex: 1;
+    list-style: none;
+    display: flex;
+    gap: 30px;
+    margin: 0;
+    padding: 0;
+    align-items: center;
+}
+
+.header ul li a {
+    text-decoration: none;
+    font-size: 18px;
+    color: #e5e7eb;
+}
