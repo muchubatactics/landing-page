@@ -204,6 +204,7 @@ a {
     color: #e5e7eb;
     font-weight: bold;
     margin-top: 10px;
+    flex-shrink: 0;
 }
 /* end of body 5 */
 
